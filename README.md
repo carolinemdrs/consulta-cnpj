@@ -7,7 +7,10 @@ Esse projeto está longe de estar finalizado. Falta organizar melhor ele no gera
 
 ![telaBusca](https://user-images.githubusercontent.com/53227515/107705463-857a9280-6c9d-11eb-9f6f-ef1942a88636.png)
 
+##como rodar o projeto
+Após o gitclone, acesse a pasta do projeto via node e rode o comando npm run start.
 
+Mais infos:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
