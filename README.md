@@ -1,3 +1,4 @@
+Esse projeto está longe de estar finalizado. Falta organizar melhor ele no geral e css. Falta finalizar o login para criar rota autenticada e poder acessar a página de detalhes de cnpjs. Melhorar o UX, adicionar algumas animações. ETC
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
