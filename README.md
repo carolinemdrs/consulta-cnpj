@@ -1,4 +1,13 @@
 Esse projeto está longe de estar finalizado. Falta organizar melhor ele no geral e css. Falta finalizar o login para criar rota autenticada e poder acessar a página de detalhes de cnpjs. Melhorar o UX, adicionar algumas animações. ETC
+
+![telaSignUp](https://user-images.githubusercontent.com/53227515/107703892-169c3a00-6c9b-11eb-8eab-5a93263f4d91.png)
+
+
+![tela-login](https://user-images.githubusercontent.com/53227515/107703950-3895bc80-6c9b-11eb-8756-7330a8181384.png)
+
+![telaBusca](https://user-images.githubusercontent.com/53227515/107705463-857a9280-6c9d-11eb-9f6f-ef1942a88636.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
